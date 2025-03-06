@@ -1,7 +1,6 @@
 module github.com/outofforest/isolator
 
 go 1.23
-
 require (
 	github.com/google/nftables v0.2.0
 	github.com/outofforest/libexec v0.3.9
@@ -13,7 +12,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/vishvananda/netlink v1.1.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/sys v0.28.0
+	golang.org/x/sys v0.31.0
 )
 
 require (
